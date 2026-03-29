@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://luckybearpf.ru/sitemap.xml
+Host: https://luckybearpf.ru
